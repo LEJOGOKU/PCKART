@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Gaming PC 1",
+    "description": "High-performance gaming PC with RGB lighting.",
+    "price": 19.99,
+    "image": "https://image.shutterstock.com/image-photo/water-cooled-gaming-pc-rgb-260nw-2224456087.jpg",
+    "category": "GamingPC"
+  },
+  {
+    "id": 2,
+    "title": "Gaming PC 2",
+    "description": "Advanced gaming PC with enhanced cooling system.",
+    "price": 29.99,
+    "image": "https://img.freepik.com/free-photo/close-up-rgb-system-desktop-pro-gamer-playing-first-person-shooter-video-game-online-competition-streaming-studio-is-equipped-with-professional-setup-with-powerful-pc-ready-online-game_482257-3879.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingPC"
+  },
+  {
+    "id": 3,
+    "title": "Gaming PC 3",
+    "description": "Top-notch gaming PC with high-resolution display.",
+    "price": 39.99,
+    "image": "https://img.freepik.com/premium-photo/rgb-gaming-pc-ai-generated_570313-46.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingPC"
+  },
+  {
+    "id": 4,
+    "title": "Gaming PC 4",
+    "description": "State-of-the-art gaming PC with advanced specs.",
+    "price": 49.99,
+    "image": "https://img.freepik.com/premium-photo/photo-loaded-circuit-board-generated-by-ai_972969-26230.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingPC"
+  },
+  {
+    "id": 5,
+    "title": "Gaming Mouse",
+    "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+    "price": 19.99,
+    "image": "https://img.freepik.com/premium-photo/computer-mouse-with-glowing-light-black-mouse-with-red-orange-light_987764-213867.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingAccessories"
+  },
+  {
+    "id": 6,
+    "title": "Gaming Headset",
+    "description": "Comfortable gaming headset with noise cancellation.",
+    "price": 29.99,
+    "image": "https://img.freepik.com/premium-photo/mamut-whit-gaming-headsett_1238615-526.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingAccessories"
+  },
+  {
+    "id": 7,
+    "title": "Gaming Keyboard",
+    "description": "Mechanical gaming keyboard with backlighting.",
+    "price": 39.99,
+    "image": "https://img.freepik.com/premium-photo/gamer-who-is-playing-front-gaming-computer-ai-generated-image_311619-312.jpg?ga=GA1.1.327389780.1721363011",
+    "category": "GamingAccessories"
+  },
+  {
+    "id": 8,
+    "title": "Gaming Chair",
+    "description": "Ergonomic gaming chair for long sessions.",
+    "price": 19.99,
+    "image": "https://img.freepik.com/free-photo/futuristic-video-game-equipment-illuminated-nightclub-generative-ai_188544-32105.jpg?ga=GA1.1.327389780.1721363011&semt=sph",
+    "category": "GamingAccessories"
+  },
+  {
+    "id": 9,
+    "title": "Gaming Chair 2",
+    "description": "Comfortable gaming chair with adjustable features.",
+    "price": 29.99,
+    "image": "https://img.freepik.com/premium-photo/gamer-chair-with-colorful-background-gamer-concept-black-background-generative-ai_955080-378.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "TablesAndChairs"
+  },
+  {
+    "id": 10,
+    "title": "Gaming Desk",
+    "description": "Spacious gaming desk with cable management.",
+    "price": 29.99,
+    "image": "https://img.freepik.com/premium-psd/gamer-chair-mockup-design_23-2151044316.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "TablesAndChairs"
+  },
+  {
+    "id": 11,
+    "title": "Gaming Desk 2",
+    "description": "Modern gaming desk with adjustable height.",
+    "price": 29.99,
+    "image": "https://img.freepik.com/premium-photo/minimalist-workspace-studio-designer-creative-professional-3d-rendering-image_855737-1417.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "TablesAndChairs"
+  },
+  {
+    "id": 12,
+    "title": "Gaming Desk 3",
+    "description": "Compact gaming desk with built-in RGB lights.",
+    "price": 29.99,
+    "image": "https://img.freepik.com/premium-photo/desk-with-desktop-gaming-light-chair-picture-ai-generated-art_853163-5585.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "TablesAndChairs"
+  },
+  {
+    "id": 13,
+    "title": "Gaming Accessory",
+    "description": "Various gaming accessories for a complete setup.",
+    "price": 39.99,
+    "image": "https://img.freepik.com/free-photo/futuristic-representation-water-bottle_23-2151048099.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "TablesAndChairs"
+  },
+  {
+    "id": 14,
+    "title": "Gaming Room Decor",
+    "description": "Decorative items to enhance your gaming room.",
+    "price": 39.99,
+    "image": "https://img.freepik.com/free-vector/cartoon-gamer-room-illustration_52683-60981.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingRoom"
+  },
+  {
+    "id": 15,
+    "title": "Gaming Room Furniture",
+    "description": "Furniture designed for an immersive gaming experience.",
+    "price": 19.99,
+    "image": "https://img.freepik.com/premium-psd/gamer-room-mockup-design_23-2151220564.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingRoom"
+  },
+  {
+    "id": 16,
+    "title": "Gaming Room Setup",
+    "description": "Complete setup for your gaming room.",
+    "price": 29.99,
+    "image": "https://img.freepik.com/premium-photo/foldable-wallmounted-gamer-chair_839035-1214064.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingRoom"
+  },
+  {
+    "id": 17,
+    "title": "Gaming Room Equipment",
+    "description": "High-end equipment for a premium gaming room.",
+    "price": 39.99,
+    "image": "https://img.freepik.com/premium-photo/highend-computing-gaming-set-monitor-green-screen_1097192-4739.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingRoom"
+  },
+  {
+    "id": 18,
+    "title": "Gaming Room Accessory",
+    "description": "Additional accessories for your gaming room.",
+    "price": 49.99,
+    "image": "https://img.freepik.com/premium-photo/craft-gaming-space-with-modular-desk-adjustable-monitor-arms-empty-wall-rotating-gamethemed-displays_1029469-173023.jpg?ga=GA1.1.327389780.1721363011&semt=ais_user",
+    "category": "GamingRoom"
+  }
+]
